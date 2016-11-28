@@ -11,7 +11,7 @@
 ## 5.2
 int vl[i]; 错
 
-vector<int> ve(i); 对、
+vector<int> ve(i); 对
 
 ### 5.2.2
 字符串文字量："this is a string"，末尾多一个'\n'，类型为“适当个数的const字符的数组”
